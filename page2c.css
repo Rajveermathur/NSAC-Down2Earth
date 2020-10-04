@@ -1,0 +1,248 @@
+body{
+background-image: url(https://www.androidguys.com/wp-content/uploads/2015/11/earth-space-hd-wallpaper-2560x1600-9560.jpg);
+display: flex;
+justify-content: center;
+align-items:center;
+min-height: 100vh;
+background-position: center;
+background-size: 100%;
+}
+
+.container{
+position: relative;
+}
+.container .card
+{
+ position: relative;
+border: 10px black;
+width: 1200px;
+height: 600px;
+overflow: hidden;
+top:150%;
+left:-5%;
+}
+
+.container .card .gallery
+{
+position: absolute;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card .gallery img
+{
+position: relative;
+top: -70%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+.container .card .desc h3
+{
+ color: white;
+}
+.container .card .desc p
+{
+  color: white;
+ width: 800px;
+ float: right;
+
+ font-size: 17px;
+ font-family: serif;
+}
+.container .card1
+{
+ position: relative;
+width: 1200px;
+height: 600px;
+overflow: hidden;
+top:200%;
+left:-5%;
+}
+
+.container .card1 .gallery
+{
+position: absolute;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card1 .gallery img
+{
+position: absolute;
+top: -30%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+.container .card1 .desc h3
+{
+ color: white;
+}
+.container .card1 .desc p
+{
+  color: white;
+ width: 800px;
+ float: right;
+
+ font-size: 17px;
+ font-family: serif;
+}
+.container .card2
+{
+ position: relative;
+width: 1200px;
+height: 600px;
+overflow: hidden;
+top:200%;
+left:-5%;
+}
+
+.container .card2 .gallery
+{
+position: relative;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card2 .gallery img
+{
+position: relative;
+top: -20%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+.container .card2 .desc h3
+{
+ color: white;
+}
+.container .card2 .desc p
+{
+  color: white;
+ width: 800px;
+ line-spacing:10px;
+ font-size: 17px;
+ font-family: serif;
+ float: right;
+}
+.container .card3
+{
+ position: relative;
+width: 1200px;
+height: 600px;
+overflow: hidden;
+top:200%;
+left:-5%;
+}
+
+.container .card3 .gallery
+{
+position: relative;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card3 .gallery img
+{
+position: relative;
+top: 0%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+.container .card3 .desc h3
+{
+ color: white;
+}
+.container .card3 .desc p
+{
+  color: white;
+ width: 800px;
+ float: right;
+
+ font-size: 17px;
+ font-family: serif;
+}
+.container .card4
+{
+ position: relative;
+width: 1200px;
+height: 600px;
+overflow: hidden;
+top:200%;
+left:-5%;
+}
+
+.container .card4 .gallery
+{
+position: relative;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card4 .gallery img
+{
+position: relative;
+top: 0%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+.container .card4 .desc h3
+{
+ color: white;
+}
+.container .card4 .desc p
+{
+  color: white;
+ width: 800px;
+ float: right;
+
+ font-size: 17px;
+ font-family: serif;
+}
+.container .card5
+{
+ position: relative;
+width: 1200px;
+height: 600px;
+overflow: hidden;
+top:200%;
+left:-5%;
+}
+
+.container .card5 .gallery
+{
+position: relative;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card5 .gallery img
+{
+position: relative;
+top: 0%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+.container .card5 .desc h3
+{
+ color: white;
+}
+.container .card5 .desc p
+{
+  color: white;
+ width: 800px;
+ float: right;
+
+ font-size: 17px;
+ font-family: serif;
+}
