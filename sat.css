@@ -1,0 +1,407 @@
+body{
+background-image: url(https://sm.mashable.com/mashable_in/photo/default/nasa-galaxy_9pu4.jpg);
+display: flex;
+justify-content: center;
+align-items:center;
+min-height: 100vh;
+background-position: center;
+background-repeat: no-repeat;
+overflow-x: hidden;
+background-size: cover;
+}
+
+.container{
+position: relative;
+}
+.container .card
+{
+ position: relative;
+border: 10px black;
+width: 1200px;
+height: 600px;
+background-image: url(https://sm.mashable.com/mashable_in/photo/default/nasa-galaxy_9pu4.jpg);
+overflow: hidden;
+top:150%;
+left:0%;
+}
+.container .card .gallery
+{
+position: absolute;
+top: 35%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card .gallery img
+{
+position: relative;
+top: -70%;
+left: 5%;
+width: 300px;
+height: 380px;
+}
+
+.container .card1 .gallery
+{
+position: absolute;
+top: 5%;
+left:70%;
+width: 50%;
+height: 100px;
+}
+.container .card1 .gallery img
+{
+position: relative;
+top: -70%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+.container .card .desc 
+{
+  color: white;
+ width: 500px;
+height: 200px;
+margin-left:auto;
+margin-right: auto;
+padding:80px;
+font-size:20px;
+}
+.container .card2
+{
+ position: relative;
+border: 10px black;
+width: 1200px;
+height: 600px;
+background-image: url(https://sm.mashable.com/mashable_in/photo/default/nasa-galaxy_9pu4.jpg);
+top:70%;
+left:-5%;
+}
+.container .card2 .gallery
+{
+position: absolute;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card2 .gallery img
+{
+position: relative;
+top: -40%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+
+.container .card2 .desc 
+{
+  color: white;
+ width: 500px;
+height:200px;
+margin-left:auto;
+margin-right: auto;
+padding:120px;
+font-size:20px;
+}
+.container .card3 .gallery
+{
+position: absolute;
+top: 19%;
+left: 70%;
+width: 50%;
+height: 100px;
+}
+.container .card3 .gallery img
+{
+position: relative;
+top: -70%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+
+.container .card4
+{
+ position: relative;
+border: 10px black;
+width: 1200px;
+height: 600px;
+background-image: url(https://sm.mashable.com/mashable_in/photo/default/nasa-galaxy_9pu4.jpg);
+top:70%;
+left:-5%;
+}
+.container .card4 .gallery
+{
+position: absolute;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card4 .gallery img
+{
+position: relative;
+top: -40%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+
+.container .card4 .desc 
+{
+  color: white;
+ width: 500px;
+height:200px;
+margin-left:auto;
+margin-right: auto;
+padding:120px;
+font-size:20px;
+}
+.container .card5 .gallery
+{
+position: absolute;
+top: 33.5%;
+left: 70%;
+width: 50%;
+height: 100px;
+}
+.container .card5 .gallery img
+{
+position: relative;
+top: -70%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+.container .card6
+{
+ position: relative;
+border: 10px black;
+width: 1200px;
+height: 600px;
+background-image: url(https://sm.mashable.com/mashable_in/photo/default/nasa-galaxy_9pu4.jpg);
+top:70%;
+left:-5%;
+}
+.container .card6 .gallery
+{
+position: absolute;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card6 .gallery img
+{
+position: relative;
+top: -40%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+
+.container .card6 .desc 
+{
+  color: white;
+ width: 500px;
+height:200px;
+margin-left:auto;
+margin-right: auto;
+padding:120px;
+font-size:20px;
+}
+.container .card7 .gallery
+{
+position: absolute;
+top: 48%;
+left: 70%;
+width: 50%;
+height: 100px;
+}
+.container .card7 .gallery img
+{
+position: relative;
+top: -70%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+
+.container .card8
+{
+ position: relative;
+border: 10px black;
+width: 1200px;
+height: 600px;
+background-image: url(https://sm.mashable.com/mashable_in/photo/default/nasa-galaxy_9pu4.jpg);
+top:70%;
+left:-5%;
+}
+.container .card8 .gallery
+{
+position: absolute;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card8 .gallery img
+{
+position: relative;
+top: -40%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+
+.container .card8 .desc 
+{
+  color: white;
+ width: 500px;
+height:200px;
+margin-left:auto;
+margin-right: auto;
+padding:120px;
+font-size:20px;
+}
+.container .card9 .gallery
+{
+position: absolute;
+top: 62%;
+left: 70%;
+width: 50%;
+height: 100px;
+}
+.container .card9 .gallery img
+{
+position: relative;
+top: -70%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+
+
+.container .card10
+{
+ position: relative;
+border: 10px black;
+width: 1200px;
+height: 600px;
+background-image: url(https://sm.mashable.com/mashable_in/photo/default/nasa-galaxy_9pu4.jpg);
+top:70%;
+left:-5%;
+}
+.container .card10 .gallery
+{
+position: absolute;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card10 .gallery img
+{
+position: relative;
+top: -40%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+
+.container .card10 .desc 
+{
+  color: white;
+ width: 500px;
+height:200px;
+margin-left:auto;
+margin-right: auto;
+padding:120px;
+font-size:20px;
+}
+.container .card11 .gallery
+{
+position: absolute;
+top: 76.5%;
+left: 70%;
+width: 50%;
+height: 100px;
+}
+.container .card11 .gallery img
+{
+position: relative;
+top: -70%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+
+
+.container .card12
+{
+ position: relative;
+border: 10px black;
+width: 1200px;
+height: 600px;
+background-image: url(https://sm.mashable.com/mashable_in/photo/default/nasa-galaxy_9pu4.jpg);
+top:70%;
+left:-5%;
+}
+.container .card12 .gallery
+{
+position: absolute;
+top: 30%;
+left: 3%;
+width: 50%;
+height: 100px;
+}
+.container .card12 .gallery img
+{
+position: relative;
+top: -40%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+
+.container .card12 .desc 
+{
+  color: white;
+ width: 500px;
+height:200px;
+margin-left:auto;
+margin-right: auto;
+padding:120px;
+font-size:20px;
+}
+.container .card13 .gallery
+{
+position: absolute;
+top: 91%;
+left: 70%;
+width: 50%;
+height: 100px;
+}
+.container .card13 .gallery img
+{
+position: relative;
+top: -70%;
+left: 0%;
+width: 300px;
+height: 380px;
+}
+::-webkit-scrollbar
+{
+width:12px;
+}
+::-webkit-scrollbar-thumb
+{
+background: linear-gradient(transparent,black);
+border radius:6px;
+}
+::-webkit-scrollbar-thumb:hover
+{
+background: linear-gradient(transparent,#3CD8FE);
+}
+
